@@ -1,0 +1,162 @@
+2022-08-14 15:39:36,527  INFO [main] Log:13 - Getting driver for host: {}LOCALHOST
+2022-08-14 15:39:36,529  INFO [main] Log:13 - Getting driver for browser: {}CHROME
+2022-08-14 15:39:38,138  INFO [main] WebDriverManager:966 - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-08-14 15:39:38,151  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as /Users/jyotchoksi/.cache/selenium/chromedriver/mac64/104.0.5112.79/chromedriver
+2022-08-14 15:39:42,813  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2022-08-14 15:39:42,829  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2022-08-14 15:39:42,830  WARN [main] Configuration:133 - Detected a static method [amazon.utility.BaseClass.setup()]. Static configuration methods can cause  unexpected behavior.
+2022-08-14 15:39:42,835  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2022-08-14 15:39:42,835  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,836  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,836  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,837  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,838  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,838  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,838  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,840  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,841  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,841  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,841  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,842  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,842  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,845  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,846  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,846  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,846  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,848  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,849  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,849  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,849  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,850  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,852  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,853  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,853  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,854  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 15:39:42,855  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 15:39:42,873  INFO [main] Utils:112 - [TestNG] Running:
+  /private/var/folders/wx/h32q7hk13rs4j078_tqzs8540000gn/T/testng-eclipse--1194238082/testng-customsuite.xml
+
+2022-08-14 15:40:03,434  INFO [main] Log:13 - I am in onStart method Default test
+2022-08-14 15:40:03,455  INFO [main] Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2022-08-14 15:40:45,335  INFO [main] Log:13 - selectSamsung test is succeed.
+2022-08-14 15:40:45,744  INFO [main] Log:13 - selectSamsung test is failed.
+2022-08-14 15:40:50,997  INFO [main] Log:13 - I am in onFinish method Default test
+2022-08-14 16:35:12,432  INFO [main] Log:13 - Getting driver for host: {}LOCALHOST
+2022-08-14 16:35:12,434  INFO [main] Log:13 - Getting driver for browser: {}CHROME
+2022-08-14 16:35:12,976  INFO [main] WebDriverManager:966 - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-08-14 16:35:12,993  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as /Users/jyotchoksi/.cache/selenium/chromedriver/mac64/104.0.5112.79/chromedriver
+2022-08-14 16:35:18,028  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2022-08-14 16:35:18,039  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2022-08-14 16:35:18,041  WARN [main] Configuration:133 - Detected a static method [amazon.utility.BaseClass.setup()]. Static configuration methods can cause  unexpected behavior.
+2022-08-14 16:35:18,045  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,047  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2022-08-14 16:35:18,049  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,050  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,051  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,051  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,054  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,054  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,055  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,055  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,056  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,056  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,059  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,059  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,063  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,063  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,064  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,064  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,065  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,066  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,066  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,066  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,074  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2022-08-14 16:35:18,074  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,078  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,078  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,079  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2022-08-14 16:35:18,079  INFO [main] Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2022-08-14 16:35:18,089  INFO [main] Utils:112 - [TestNG] Running:
+  /private/var/folders/wx/h32q7hk13rs4j078_tqzs8540000gn/T/testng-eclipse-1598230564/testng-customsuite.xml
+
+2022-08-14 16:35:28,134  INFO [main] Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 24 ms.
+2022-08-14 16:36:11,340  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@266e9dda: 0 ms
+2022-08-14 16:36:11,354  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@9fe720a: 13 ms
+2022-08-14 16:36:11,380 ERROR [main] Main:165 - /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/test-output/jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/test-output/jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:94)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484)
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228)
+	at java.base/java.nio.file.Files.copy(Files.java:3161)
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95)
+	at org.testng.TestNG.generateReports(TestNG.java:1134)
+	at org.testng.TestNG.run(TestNG.java:1072)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2022-08-14 16:36:11,382  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@47a4eee2: 28 ms
+2022-08-14 16:36:11,382  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@36f6e521: 0 ms
+2022-08-14 16:36:11,388  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4026461d: 6 ms
+2022-08-14 16:36:11,393  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@696b52bc: 4 ms
+2022-08-14 16:36:11,398  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5b2b8d86: 4 ms
+2022-08-14 17:24:38,317  INFO [main] Log:17 - Getting driver for host: {}LOCALHOST
+2022-08-14 17:24:38,321  INFO [main] Log:17 - Getting driver for browser: {}CHROME
+2022-08-14 17:24:39,924  INFO [main] WebDriverManager:966 - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-08-14 17:24:39,935  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as /Users/jyotchoksi/.cache/selenium/chromedriver/mac64/104.0.5112.79/chromedriver
+2022-08-14 17:30:32,039  INFO [main] Log:17 - Getting driver for host: {}LOCALHOST
+2022-08-14 17:30:32,042  INFO [main] Log:17 - Getting driver for browser: {}CHROME
+2022-08-14 17:30:32,590  INFO [main] WebDriverManager:966 - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-08-14 17:30:32,607  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as /Users/jyotchoksi/.cache/selenium/chromedriver/mac64/104.0.5112.79/chromedriver
+2022-08-14 17:30:36,775  WARN [main] Configuration:133 - Detected a static method [amazon.utility.BaseClass.setup()]. Static configuration methods can cause  unexpected behavior.
+2022-08-14 17:30:36,806  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/testng.xml
+
+2022-08-14 17:30:56,779  INFO [main] Log:17 - See all clicked
+2022-08-14 17:31:23,241  INFO [main] Log:17 - Actual Title is:About this item
+2022-08-14 17:31:24,152 ERROR [main] Main:165 - /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/test-output/jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/test-output/jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:94)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484)
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228)
+	at java.base/java.nio.file.Files.copy(Files.java:3161)
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95)
+	at org.testng.TestNG.generateReports(TestNG.java:1134)
+	at org.testng.TestNG.run(TestNG.java:1072)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2022-08-14 17:34:11,300  INFO [main] Log:17 - Getting driver for host: {}LOCALHOST
+2022-08-14 17:34:11,302  INFO [main] Log:17 - Getting driver for browser: {}CHROME
+2022-08-14 17:34:11,895  INFO [main] WebDriverManager:966 - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-08-14 17:34:11,915  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as /Users/jyotchoksi/.cache/selenium/chromedriver/mac64/104.0.5112.79/chromedriver
+2022-08-14 17:37:19,944  INFO [main] Log:17 - Getting driver for host: {}LOCALHOST
+2022-08-14 17:37:19,946  INFO [main] Log:17 - Getting driver for browser: {}CHROME
+2022-08-14 17:37:20,464  INFO [main] WebDriverManager:966 - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-08-14 17:37:20,482  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as /Users/jyotchoksi/.cache/selenium/chromedriver/mac64/104.0.5112.79/chromedriver
+2022-08-14 17:37:24,654  WARN [main] Configuration:133 - Detected a static method [amazon.utility.BaseClass.setup()]. Static configuration methods can cause  unexpected behavior.
+2022-08-14 17:37:24,691  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/testng.xml
+
+2022-08-14 17:37:49,467  INFO [main] Log:17 - See all clicked
+2022-08-14 17:38:18,683  INFO [main] Log:17 - Actual Title is:About this item
+2022-08-14 17:38:19,785 ERROR [main] Main:165 - /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/test-output/jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: /Users/jyotchoksi/Desktop/AmazonExercise/vanilla/test-output/jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:94)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484)
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228)
+	at java.base/java.nio.file.Files.copy(Files.java:3161)
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95)
+	at org.testng.TestNG.generateReports(TestNG.java:1134)
+	at org.testng.TestNG.run(TestNG.java:1072)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
